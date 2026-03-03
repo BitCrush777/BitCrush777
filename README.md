@@ -51,8 +51,6 @@ I love building **beautiful apps**, **smart automations**, and **AI-powered solu
 📦 **APK Download**  
 👉 *(Add GitHub Release link here)*
 
-📸 **Screenshots**
-> *(Add screenshots here later)*
 
 ---
 
