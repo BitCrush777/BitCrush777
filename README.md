@@ -18,7 +18,10 @@ Android Developer • Web Developer • AI Builder • n8n Automation Enthusiast
 - 🚀 Love building startup ideas into real products
 
 ## 🛠️ Tech Stack
-Kotlin • Java • JavaScript • TypeScript • React • Node.js • Firebase • MongoDB • HTML • CSS • Tailwind • GitHub • Figma
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,python,javascript,typescript,react,nextjs,nodejs,express,mongodb,firebase,html,css,tailwind,git,github,vscode,figma,androidstudio,blender&perline=10" />
+</p>
 
 ## 🚀 Featured Projects
 - GravityCalc — Glassmorphism calculator app
