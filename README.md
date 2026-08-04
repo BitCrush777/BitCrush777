@@ -23,6 +23,4 @@ Kotlin • Java • JavaScript • TypeScript • React • Node.js • Firebase
 (add your stats cards here)
 
 ## 📫 Connect With Me
-- Email
-- LinkedIn
-- Portfolio
+- Email :saidarshan7070@gmail.com
