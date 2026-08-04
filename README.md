@@ -8,12 +8,12 @@
 Android Developer • Web Developer • AI Builder • n8n Automation Enthusiast
 </h3>
 
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=00C2FF&center=true&vCenter=true&width=800&lines=Android+Developer;Full+Stack+Web+Developer;AI+Builder;AI+Agent+Developer;n8n+Automation+Developer;Always+Learning+New+Things+🚀" />
 </p>
 
-## 👋 About Me
----
+
 
 ## 🌟 About Me
 - 🎓 BCA Student
