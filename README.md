@@ -10,11 +10,9 @@
 Building Android Apps • AI Solutions • Modern Web Experiences
 </p>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=00C2FF&center=true&vCenter=true&width=800&lines=Android+Developer;Full+Stack+Web+Developer;AI+Builder;AI+Agent+Developer;n8n+Automation+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
-
 <p align="center">
   <a href="mailto:saidarshan7070@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -25,6 +23,11 @@ Building Android Apps • AI Solutions • Modern Web Experiences
   </a>
 </p>
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BitCrush777&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1" />
+</p>
 ## 🌟 About Me
 - 🎓 BCA Student
 - 📱 Building Android apps with Kotlin and Jetpack Compose
