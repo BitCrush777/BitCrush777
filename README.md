@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0ea5e9,100:6366f1&text=Sai%20Darshan&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Android%20Developer%20|%20AI%20Builder%20|%20Full%20Stack%20Developer&descAlignY=60"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Sai Darshan</h1>
 
 <h3 align="center">
@@ -5,8 +9,10 @@ Android Developer • Web Developer • AI Builder • n8n Automation Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=00C2FF&center=true&vCenter=true&width=800&lines=Android+Developer;Full+Stack+Web+Developer;AI+Builder;AI+Agent+Developer;n8n+Automation+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=00C2FF&center=true&vCenter=true&width=800&lines=Android+Developer;Full+Stack+Web+Developer;AI+Builder;AI+Agent+Developer;n8n+Automation+Developer;Always+Learning+New+Things+🚀" />
 </p>
+
+## 👋 About Me
 ---
 
 ## 🌟 About Me
