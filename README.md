@@ -2,11 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0ea5e9,100:6366f1&text=Sai%20Darshan&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Android%20Developer%20|%20AI%20Builder%20|%20Full%20Stack%20Developer&descAlignY=60"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Sai Darshan</h1>
+<h2 align="center">
+👋 Welcome to my GitHub Profile
+</h2>
 
-<h3 align="center">
-Android Developer • Web Developer • AI Builder • n8n Automation Enthusiast
-</h3>
+<p align="center">
+Building Android Apps • AI Solutions • Modern Web Experiences
+</p>
 
 
 <p align="center">
