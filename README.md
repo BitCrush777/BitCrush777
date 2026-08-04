@@ -19,17 +19,9 @@ Kotlin • Java • JavaScript • TypeScript • React • Node.js • Firebase
 - CityPulse-AI-OS — Smart city AI concept
 - Your best web/app projects here
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BitCrush777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitCrush777&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=BitCrush777&theme=tokyonight&hide_border=true" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=BitCrush777&theme=github-dark)
 
 ## 📫 Connect With Me
 - Email :saidarshan7070@gmail.com
