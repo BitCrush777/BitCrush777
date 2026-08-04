@@ -23,12 +23,6 @@ Building Android Apps • AI Solutions • Modern Web Experiences
   </a>
 </p>
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BitCrush777/BitCrush777/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</p>
-
 ## 🌟 About Me
 - 🎓 BCA Student
 - 📱 Building Android apps with Kotlin and Jetpack Compose
@@ -44,9 +38,37 @@ Building Android Apps • AI Solutions • Modern Web Experiences
 </p>
 
 ## 🚀 Featured Projects
-- GravityCalc — Glassmorphism calculator app
-- CityPulse-AI-OS — Smart city AI concept
-- Your best web/app projects here
+
+### 📱 GravityCalc
+
+Modern Glassmorphism Calculator built with Kotlin & Jetpack Compose.
+
+**Tech Stack**
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=android&logoColor=white)
+
+🔗 Repository: https://github.com/BitCrush777/GravityCalc
+
+---
+
+### 🤖 CityPulse AI OS
+
+AI-powered Smart City platform.
+
+**Tech Stack**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+🔗 Repository: https://github.com/BitCrush777/CityPulse-AI-OS
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BitCrush777/BitCrush777/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
 
 ## 🔥 GitHub Streak
 
